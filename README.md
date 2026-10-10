@@ -17,7 +17,7 @@ Supabase · Azure · GCP · Docker · CI/CD
 unified REST API over dual PostgreSQL databases. Row-level security, RBAC and
 multi-tenant isolation at the database layer. Built solo.
 
-**[PrisRadar](https://prisradar.se)** — Construction price intelligence for the
+**PrisRadar** — Construction price intelligence for the
 Swedish market. Automated collection pipeline, Next.js, Python/Playwright,
 GitHub Actions.
 
