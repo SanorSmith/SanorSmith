@@ -13,7 +13,7 @@ Supabase · Azure · GCP · Docker · CI/CD
 
 ---
 
-**[Tibbna](https://tibbna.com)** — Hospital EHR platform. Nine modules behind a
+**Tibbna** — Hospital EHR platform. Nine modules behind a
 unified REST API over dual PostgreSQL databases. Row-level security, RBAC and
 multi-tenant isolation at the database layer. Built solo.
 
